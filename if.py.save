@@ -1,0 +1,9 @@
+>>> x = int(input("please enter the integer no"))
+please enter the integer no 6
+>>> x
+6
+>>> x = int(input("please enter the integer no"))
+please enter the integer no 6
+>>> x
+6
+
